@@ -3,5 +3,5 @@
  # Shariah-Training
 Islamic Shariah Training System - Interactive learning platform for jurisprudence MCQ assessments. و الاسئلة الفقهية 
 
-
+ هذه نسخة قديمة من المنصة في البدايات و قد يتاح لنا وقت لتطويرها بطريقة اخرى
 
